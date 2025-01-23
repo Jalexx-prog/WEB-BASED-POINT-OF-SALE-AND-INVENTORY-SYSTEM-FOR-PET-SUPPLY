@@ -21,6 +21,8 @@ Step 8: to login you can use my default account username: Jalexx and pass cvsu10
 Thank you for being here! This project has saved me from my Capstone project and successfully defended 2 times and my overnight coding payoffs.
 
 
+```bash
+
    ____ _           _   _                   
   / ___| | __ _  __| | | |_ ___             
  | |  _| |/ _` |/ _` | | __/ _ \            
@@ -35,5 +37,8 @@ Thank you for being here! This project has saved me from my Capstone project and
  | |_| | (_) | |_| | | | | |  __/ | |  __/_|
   \__, |\___/ \__,_| |_| |_|\___|_|  \___(_)
   |___/                                     
+
+
+```
 
 if my system help you please Share your story(jaencila2000@gmail.com) if you're using this repo for your mini/capstone project. I will be more than happy to know how does this project helped you. :)
