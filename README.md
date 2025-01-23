@@ -18,7 +18,7 @@ Step 7: after you import the database now search in the URL "http://localhost/pe
 Step 8: to login you can use my default account username: Jalexx and pass cvsu101
 
 
-Thank you for being here! This project has saved me from my Capstone project and successfully defended 2 times and my overnight coding payoffs.
+Thank you for being here! This project has saved me from my Capstone project and successfully defend it 2 times and my overnight coding payoffs.
 
 
 ```bash
