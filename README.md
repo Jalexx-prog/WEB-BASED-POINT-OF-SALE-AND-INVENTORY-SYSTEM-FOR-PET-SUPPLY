@@ -23,20 +23,12 @@ Thank you for being here! This project has saved me from my Capstone project and
 
 ```bash
 
-   ____ _           _   _                   
-  / ___| | __ _  __| | | |_ ___             
- | |  _| |/ _` |/ _` | | __/ _ \            
- | |_| | | (_| | (_| | | || (_) |           
-  \____|_|\__,_|\__,_|  \__\___/            
-  ___  ___  ___                             
- / __|/ _ \/ _ \                            
- \__ \  __/  __/                            
- |___/\___|\___|      _                   _ 
-  _   _  ___  _   _  | |__   ___ _ __ ___| |
- | | | |/ _ \| | | | | '_ \ / _ \ '__/ _ \ |
- | |_| | (_) | |_| | | | | |  __/ | |  __/_|
-  \__, |\___/ \__,_| |_| |_|\___|_|  \___(_)
-  |___/                                     
+ N   N  III  CCCC  EEEEE      TTTTT  OOO      SSSS  EEEEE   EEEEE  Y   Y  OOO  U   U    H   H  EEEEE  RRRR   EEEEE
+ NN  N   I   C      E          T   O   O    S      E       E      Y Y  O   O U   U    H   H  E      R   R  E    
+ N N N   I   C      EEEE       T   O   O    SSSS   EEEE    EEEE    Y   O   O U   U    HHHHH  EEEE   RRRR   EEEE 
+ N  NN   I   C      E          T   O   O       S   E       E      Y   O   O U   U    H   H  E      R  R   E    
+ N   N  III  CCCC  EEEEE      T    OOO    SSSS   EEEEE   EEEEE   Y    OOO   UUU     H   H  EEEEE  R   R  EEEEE
+                   
 
 
 ```
